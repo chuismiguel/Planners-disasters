@@ -29,4 +29,4 @@ massive java error
 
 # FIFTH disaster: SMT:
 
-55 MINUTES COMPILING 
+more than an hour compiling z3 and then piranha is not working.
