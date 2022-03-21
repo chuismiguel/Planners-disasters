@@ -27,3 +27,6 @@ Same error as dino
 
 massive java error
 
+# FIFTH disaster: SMT:
+
+55 MINUTES COMPILING 
