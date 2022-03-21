@@ -29,4 +29,6 @@ massive java error
 
 # FIFTH disaster: SMT:
 
-more than an hour compiling z3 and then piranha is not working.
+more than an hour compiling z3 and then piranha is not working. Too much dependencies.
+
+No more planners unused with homepage.
