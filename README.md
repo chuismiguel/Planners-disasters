@@ -33,6 +33,11 @@ more than an hour compiling z3 and then piranha is not working. Too much depende
 
 # sixth disaster: SMT:
 
+c error: ...
+__gnu_cxx::_normal_iterator<TIM::Property*, std::vector<TIM::Property, std::allocator<TIM::Property*> > >)':
+TimSupport.cpp:(.text.ZN10CascadeMapIPN3TIM8PropertyENS0_13PropertyStateEE8forceGetIN9gnu_cxx17normal_iteratorIPS2_St6vectorIS2_SaIS2_EEEEEERPS3_T_SF[ZN10CascadeMapIPN3TIM8PropertyENS0_13PropertyStateEE8forceGetIN9gnu_cxx17normal_iteratorIPS2_St6vectorIS2_SaIS2_EEEEEERPS3_T_SF]+0x80): referencia a `operator new(unsigned int)' sin definir
+/usr/bin/ld: lib/libInst.a(TimSupport.o):TimSupport.cpp:(.text.ZSt8for_eachISt23_Rb_tree_const_iteratorIPN3TIM14TransitionRuleEENS1_19extendWithStateRuleEET0_T_S7_S6[ZSt8for_eachISt23_Rb_tree_const_iteratorIPN3TIM14TransitionRuleEENS1_19extendWithStateRuleEET0_T_S7_S6]+0x311): más referencias a `operator new(unsigned int)' sin definir a continuación
+
 optic: make error
 
 
