@@ -31,4 +31,9 @@ massive java error
 
 more than an hour compiling z3 and then piranha is not working. Too much dependencies.
 
+# sixth disaster: SMT:
+
+optic: make error
+
+
 No more planners unused with homepage.
