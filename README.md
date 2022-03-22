@@ -31,7 +31,7 @@ massive java error
 
 more than an hour compiling z3 and then piranha is not working. Too much dependencies.
 
-# sixth disaster: SMT:
+# sixth disaster: OPTIC:
 
 c error: ...
 __gnu_cxx::_normal_iterator<TIM::Property*, std::vector<TIM::Property, std::allocator<TIM::Property*> > >)':
